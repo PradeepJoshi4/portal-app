@@ -48,7 +48,7 @@ export default function SignupPage() {
             onChange={(e) => setPassword(e.target.value)}
           />
         </div>
-
+{/* hi  */}
         <button className="w-full bg-linear-to-r from-green-600 to-teal-600 text-white py-3 rounded-lg font-semibold hover:from-green-700 hover:to-teal-700 transition-all duration-200 transform hover:scale-105 shadow-lg">
           Create Account
         </button>
